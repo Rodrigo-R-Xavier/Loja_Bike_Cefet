@@ -13,3 +13,4 @@
 |Mais_cara|float|preco mais alto|
 |Aluguel_da_bike|int|informa seu tempo de uso|
 |Preco_do_alugel|float|custo do aluguel|
+
